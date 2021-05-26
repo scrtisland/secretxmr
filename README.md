@@ -39,7 +39,7 @@ Port: 28081
 
 Once started your GUI wallet will take a moment to connect to the network
 
-![Screen Shot 2021-05-25 at 5 15 49 PM](https://user-images.githubusercontent.com/75910977/119584110-dca00100-bd7c-11eb-8ac7-d4492c9627e4.png)
+![Screen Shot 2021-05-25 at 5 54 44 PM](https://user-images.githubusercontent.com/75910977/119586852-52f33200-bd82-11eb-8cfc-5a26da4baf6b.png)
 
 ### Receive Faucet Testnet XMR to your wallet
 
