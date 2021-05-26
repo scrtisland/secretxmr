@@ -22,7 +22,20 @@ Create a New Wallet
 ![Screen Shot 2021-05-25 at 5 13 59 PM](https://user-images.githubusercontent.com/75910977/119584003-a5c9eb00-bd7c-11eb-91bd-fce21d64e0e0.png)
 
 
-Backup your Mnemonic (print it physically) and finish the wizard, all other settings can be left default
+Backup your Mnemonic (print it physically) and finish the wizard
+
+Choose Remote Node
+
+![Screen Shot 2021-05-25 at 5 50 35 PM](https://user-images.githubusercontent.com/75910977/119586587-deb88e80-bd81-11eb-9e2e-86a256e0ed22.png)
+
+Use the following options for a remote Testnet Node
+
+Host: testnet.community.xmr.to
+Port: 28081
+
+
+![Screen Shot 2021-05-25 at 5 50 38 PM](https://user-images.githubusercontent.com/75910977/119586597-e415d900-bd81-11eb-9f17-4a531a38c07f.png)
+
 
 Once started your GUI wallet will take a moment to connect to the network
 
