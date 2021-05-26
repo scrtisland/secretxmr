@@ -98,6 +98,8 @@ Congrats! You now have a testnet XMR wallet and Testnet Secret wallet with some 
 
 Go to the bridge https://ipfs.io/ipfs/Qmdy9Ups2Ru3ycKAiCre9zomRbFqgts1eAcvG43E2CcQTt/
 
+You can also use the domain alias http://secretxmr.com/ it will redirect to the IPFS
+
 Click on Deposit
 
 Copy the XMR Multsig address 
@@ -105,6 +107,9 @@ Copy the XMR Multsig address
 ![Screen Shot 2021-05-25 at 5 37 03 PM](https://user-images.githubusercontent.com/75910977/119585648-f131c880-bd7f-11eb-9d3b-a12f174d1659.png)
 
 Send the Transaction in your wallet
+
+(You may have to wait 15 minutes after your faucet for your funds to become unlocked)
+
 
 
 
