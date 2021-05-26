@@ -113,4 +113,37 @@ Send the Transaction in your wallet
 
 
 
+### Swap secretXMR for other assets
+
+Go to SecretSwap on testnet
+
+https://cashback.testnet.enigma.co/swap#Swap
+
+
+For example, we will swap sXMR for sETH
+
+Click input currency and you will need to paste the address for sXMR to Add Custom Token
+
+secret15m0feupa7nrk3gl8kzep38vecxr7lzuhv6dyfg
+
+![Screen Shot 2021-05-25 at 6 08 19 PM](https://user-images.githubusercontent.com/75910977/119587888-77e8a480-bd84-11eb-82e2-a7333f51ffb7.png)
+
+
+For Output currency, you will choose sETH
+
+You will notice you cannot see your balances, you will need to create Viewing Keys for each
+
+![Screen Shot 2021-05-25 at 6 09 15 PM](https://user-images.githubusercontent.com/75910977/119587958-9e0e4480-bd84-11eb-90f7-51faffe8535c.png)
+
+Each time will come up with a confirmation, click ok on each
+
+Refresh the page, select your currency in and out and you will now see balances
+
+
+
+
+
+
+
+
 
