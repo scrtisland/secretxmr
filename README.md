@@ -60,6 +60,9 @@ Congrats! You now have a testnet XMR wallet with some testnet XMR
 
 Next step is to get a testnet (Holodeck) Secret Wallet with Keplr
 
+
+
+
 ### Download Keplr Wallet and set it up with Testnet
 
 Download Keplr for Chrome or Brave
@@ -136,6 +139,15 @@ After a few moments, you will get a success message
 ![Screen Shot 2021-05-25 at 6 16 12 PM](https://user-images.githubusercontent.com/75910977/119588589-f8f46b80-bd85-11eb-9d65-6597a33dfbe4.png)
 
 
+The bridge will send your sXMR after 6 confirmation on the monero blockchain (about 5-10 minutes)
+
+You can check the status using the "Check Deposit" menu item and input your TX ID and TX Key
+
+
+
+
+### Verify the sXMR is in Keplr and add token 
+
 To verify your sXMR arrived, you can go to Keplr and click the top left menu, then Add Token
 
 ![Screen Shot 2021-05-25 at 6 19 00 PM](https://user-images.githubusercontent.com/75910977/119588636-175a6700-bd86-11eb-8018-2be11bb7219a.png)
@@ -149,6 +161,7 @@ secret15m0feupa7nrk3gl8kzep38vecxr7lzuhv6dyfg
 
 Submit and now you should be able to see your sXMR balance
 
+![Screen Shot 2021-05-25 at 6 24 25 PM](https://user-images.githubusercontent.com/75910977/119588853-846dfc80-bd86-11eb-94c4-9c91296dc3d5.png)
 
 
 
@@ -178,6 +191,52 @@ You will notice you cannot see your balances, you will need to create Viewing Ke
 Each time will come up with a confirmation, click ok on each
 
 Refresh the page, select your currency in and out and you will now see balances
+
+
+![Screen Shot 2021-05-25 at 6 26 59 PM](https://user-images.githubusercontent.com/75910977/119589000-ce56e280-bd86-11eb-90cb-2516ac8b668f.png)
+
+
+Type in your desired input amount and click Swap
+
+![Screen Shot 2021-05-25 at 6 27 13 PM](https://user-images.githubusercontent.com/75910977/119589147-170e9b80-bd87-11eb-842a-fd9e6fbd99f5.png)
+
+
+Confirm in Keplr
+
+![Screen Shot 2021-05-25 at 6 27 39 PM](https://user-images.githubusercontent.com/75910977/119589159-1e35a980-bd87-11eb-81f8-53bf6b179588.png)
+
+
+Congratulations, you just swapped secretXMR for secretETH completely privately.
+
+Now you could bridge out to a fresh Eth wallet with secretETH Bridge, or participate in liquidity rewards, defi and more on SecretSwap, and bridge out whenever you want.
+
+
+
+
+### Withdraw secretXMR to XMR
+
+Go to the Bridge
+
+https://ipfs.io/ipfs/Qmdy9Ups2Ru3ycKAiCre9zomRbFqgts1eAcvG43E2CcQTt/
+
+Go to Withdrawal menu item
+
+Paste your XMR wallet address
+
+![Screen Shot 2021-05-25 at 6 30 55 PM](https://user-images.githubusercontent.com/75910977/119589334-6fde3400-bd87-11eb-9bd3-e573fcd7234f.png)
+
+
+Choose your amount of secretXMR to withdraw (make sure balance is less than what you have)
+
+![Screen Shot 2021-05-25 at 6 31 03 PM](https://user-images.githubusercontent.com/75910977/119589369-7d93b980-bd87-11eb-9f77-bf6113d4cbc9.png)
+
+Click Submit and confirm in Keplr
+
+![Screen Shot 2021-05-25 at 6 31 11 PM](https://user-images.githubusercontent.com/75910977/119589394-897f7b80-bd87-11eb-8653-7b8973b32f09.png)
+
+This will take a few confirmations, you can check the status by clicking "Check Withdrawal" Menu item. It will check based on your secret wallet address
+
+
 
 
 
