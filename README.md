@@ -100,6 +100,8 @@ Once done it will show Cosmos at the top. Click Cosmos and change to Secret Test
 
 ![Screen Shot 2021-05-25 at 5 31 14 PM](https://user-images.githubusercontent.com/75910977/119585211-12de8000-bd7f-11eb-99c5-170c4936b33f.png)
 
+If Secret Test Net is not visible, open https://scrthost.xiphiar.com/addholodeck2/ in your browser.
+
 # Get Secret Testnet Faucet Funds
 
 Go to https://faucet.secrettestnet.io/
