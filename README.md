@@ -13,7 +13,8 @@
 
 
 
-### Setup Monero Wallet
+
+# Setup Monero Wallet
 
 Monero Wallet - https://www.getmonero.org/downloads/ (GUI or CLI or Mobile wallets should all work)
 
@@ -54,7 +55,10 @@ Once started your GUI wallet will take a moment to connect to the network
 
 ![Screen Shot 2021-05-25 at 5 54 44 PM](https://user-images.githubusercontent.com/75910977/119586852-52f33200-bd82-11eb-8cfc-5a26da4baf6b.png)
 
-### Receive Faucet Testnet XMR to your wallet
+
+
+
+# Receive Faucet Testnet XMR to your wallet
 
 Go to https://community.xmr.to/faucet/testnet/
 
@@ -96,7 +100,7 @@ Once done it will show Cosmos at the top. Click Cosmos and change to Secret Test
 
 ![Screen Shot 2021-05-25 at 5 31 14 PM](https://user-images.githubusercontent.com/75910977/119585211-12de8000-bd7f-11eb-99c5-170c4936b33f.png)
 
-### Get Secret Testnet Faucet Funds
+# Get Secret Testnet Faucet Funds
 
 Go to https://faucet.secrettestnet.io/
 
@@ -116,7 +120,7 @@ Congrats! You now have a testnet XMR wallet and Testnet Secret wallet with some 
 
 
 
-### Deposit XMR to secretXMR
+# Deposit XMR to secretXMR
 
 Go to the bridge https://ipfs.io/ipfs/Qmdy9Ups2Ru3ycKAiCre9zomRbFqgts1eAcvG43E2CcQTt/
 
@@ -159,7 +163,7 @@ You can check the status using the "Check Deposit" menu item and input your TX I
 
 
 
-### Verify the sXMR is in Keplr and add token 
+# Verify the sXMR is in Keplr and add token 
 
 To verify your sXMR arrived, you can go to Keplr and click the top left menu, then Add Token
 
@@ -179,7 +183,9 @@ Submit and now you should be able to see your sXMR balance
 
 
 
-### Swap secretXMR for other assets
+
+
+# Swap secretXMR for other assets
 
 Go to SecretSwap on testnet
 
@@ -226,7 +232,7 @@ Now you could bridge out to a fresh Eth wallet with secretETH Bridge, or partici
 
 
 
-### Withdraw secretXMR to XMR
+# Withdraw secretXMR to XMR
 
 Go to the Bridge
 
