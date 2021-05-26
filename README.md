@@ -46,5 +46,50 @@ Next step is to get a testnet (Holodeck) Secret Wallet with Keplr
 
 ### Download Keplr Wallet and set it up with Testnet
 
+Download Keplr for Chrome or Brave
+
+https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en
+
+Create New Wallet
+
+![Screen Shot 2021-05-25 at 5 29 51 PM](https://user-images.githubusercontent.com/75910977/119585105-db6fd380-bd7e-11eb-9954-cc960ef62832.png)
+
+Name your wallet and backup the mnemonic physically
+
+Finish the wallet setup
+
+Once done it will show Cosmos at the top. Click Cosmos and change to Secret Test Net
+
+![Screen Shot 2021-05-25 at 5 31 05 PM](https://user-images.githubusercontent.com/75910977/119585206-107c2600-bd7f-11eb-83aa-89de9b78573f.png)
+
+![Screen Shot 2021-05-25 at 5 31 14 PM](https://user-images.githubusercontent.com/75910977/119585211-12de8000-bd7f-11eb-99c5-170c4936b33f.png)
+
+### Get Secret Testnet Faucet Funds
+
+Go to https://faucet.secrettestnet.io/
+
+Copy your address by clicking where it says secretXXXXXXX
+
+![Screen Shot 2021-05-25 at 5 32 35 PM](https://user-images.githubusercontent.com/75910977/119585285-415c5b00-bd7f-11eb-820a-894fbdabaad0.png)
+
+Paste your address and click "Send me Tokens"
+
+![Screen Shot 2021-05-25 at 5 33 23 PM](https://user-images.githubusercontent.com/75910977/119585338-5a650c00-bd7f-11eb-872f-c0582a4522cf.png)
+
+Congrats! You now have a testnet XMR wallet and Testnet Secret wallet with some funds! You are ready to move on to using the bridge!
+
+### Deposit XMR to secretXMR
+
+Go to the bridge https://ipfs.io/ipfs/Qmdy9Ups2Ru3ycKAiCre9zomRbFqgts1eAcvG43E2CcQTt/
+
+Click on Deposit
+
+Copy the XMR Multsig address 
+
+![Screen Shot 2021-05-25 at 5 37 03 PM](https://user-images.githubusercontent.com/75910977/119585648-f131c880-bd7f-11eb-9d3b-a12f174d1659.png)
+
+Send the Transaction in your wallet
+
+
 
 
