@@ -133,7 +133,8 @@ You will also need to paste your secret Wallet address from keplr
 
 After a few moments, you will get a success message
 
-![11111n-Shot-2021-05-25-at-6 16 41-PM](https://user-images.githubusercontent.com/75910977/119588396-900cf380-bd85-11eb-8847-d1cda8362d5e.png)
+![Screen Shot 2021-05-25 at 6 16 12 PM](https://user-images.githubusercontent.com/75910977/119588589-f8f46b80-bd85-11eb-9d65-6597a33dfbe4.png)
+
 
 To verify your sXMR arrived, you can go to Keplr and click the top left menu, then Add Token
 
