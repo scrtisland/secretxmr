@@ -1,5 +1,18 @@
 # How to use the Secret XMR Bridge (currently on Testnet)
 
+## Table of Contents
+
+1. [Setup Monero Wallet](#setup-monero-wallet)
+2. [Receive Faucet Testnet XMR to your wallet](#receive-faucet-testnet-xmr-to-your-wallet)
+3. [Download Keplr Wallet and set it up with Testnet](#download-keplr-wallet-and-set-it-up-with-testnet)
+4. [Get Secret Testnet Faucet Funds](#get-secret-testnet-faucet-funds)
+5. [Deposit XMR to secretXMR](#deposit-xmr-to-secretxmr)
+6. [Verify the sXMR is in Keplr and add token](#verify-the-sxmr-is-in-keplr-and-add-token)
+7. [Swap secretXMR for other assets](#swap-secretxmr-for-other-assets)
+8. [Withdraw secretXMR to XMR](#withdraw-secretxmr-to-xmr)
+
+
+
 ### Setup Monero Wallet
 
 Monero Wallet - https://www.getmonero.org/downloads/ (GUI or CLI or Mobile wallets should all work)
