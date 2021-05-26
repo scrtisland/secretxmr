@@ -138,9 +138,7 @@ After a few moments, you will get a success message
 
 To verify your sXMR arrived, you can go to Keplr and click the top left menu, then Add Token
 
-
-![Screen Shot 2021-05-25 at 6 19 28 PM](https://user-images.githubusercontent.com/75910977/119588507-cea2ae00-bd85-11eb-9cfc-1fbf1ddbeb06.png)
-
+![Screen Shot 2021-05-25 at 6 19 00 PM](https://user-images.githubusercontent.com/75910977/119588636-175a6700-bd86-11eb-8018-2be11bb7219a.png)
 
 Paste this address
 
