@@ -261,7 +261,9 @@ This will take a few confirmations, you can check the status by clicking "Check 
 
 
 
+If you have any questions you can email smb@i2pmail.org
 
-
+XMR Bridge by @maxcoda
+Tutorial by @scrtisland
 
 
