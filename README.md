@@ -47,13 +47,16 @@ Go to https://community.xmr.to/faucet/testnet/
 
 Copy your wallet address under the "Receive" tab
 
-![Screen Shot 2021-05-25 at 5 18 30 PM](https://user-images.githubusercontent.com/75910977/119584404-52a46800-bd7d-11eb-9821-c36a0672e78f.png)
+![Screen Shot 2021-05-25 at 5 53 21 PM](https://user-images.githubusercontent.com/75910977/119586770-2dfebf00-bd82-11eb-8b4c-20530ba38648.png)
 
 Paste into the faucet and click Submit
 
-![Screen Shot 2021-05-25 at 5 18 39 PM](https://user-images.githubusercontent.com/75910977/119584423-5a640c80-bd7d-11eb-9f80-75ef46e52250.png)
+![Screen Shot 2021-05-25 at 5 53 28 PM](https://user-images.githubusercontent.com/75910977/119586777-31924600-bd82-11eb-860e-9c8b780e2026.png)
 
 Congrats! You now have a testnet XMR wallet with some testnet XMR
+
+![Screen Shot 2021-05-25 at 5 54 10 PM](https://user-images.githubusercontent.com/75910977/119586797-3820bd80-bd82-11eb-8b4c-6b365bab66fb.png)
+
 
 Next step is to get a testnet (Holodeck) Secret Wallet with Keplr
 
