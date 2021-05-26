@@ -94,6 +94,12 @@ Paste your address and click "Send me Tokens"
 
 Congrats! You now have a testnet XMR wallet and Testnet Secret wallet with some funds! You are ready to move on to using the bridge!
 
+
+
+
+
+
+
 ### Deposit XMR to secretXMR
 
 Go to the bridge https://ipfs.io/ipfs/Qmdy9Ups2Ru3ycKAiCre9zomRbFqgts1eAcvG43E2CcQTt/
@@ -109,6 +115,41 @@ Copy the XMR Multsig address
 Send the Transaction in your wallet
 
 (You may have to wait 15 minutes after your faucet for your funds to become unlocked)
+
+![Screen Shot 2021-05-25 at 6 12 44 PM](https://user-images.githubusercontent.com/75910977/119588113-f7767380-bd84-11eb-9eaa-d4af59494a01.png)
+
+
+Proceed and once finished, it will say "view progress" or you can access this in your wallet - Transactions
+
+You will need to copy and paste your Transaction ID and Transaction Key (click to reveal) into the Secret Bridge
+
+![Screen Shot 2021-05-25 at 6 14 49 PM](https://user-images.githubusercontent.com/75910977/119588196-27257b80-bd85-11eb-8b40-a0259a942661.png)
+
+You will also need to paste your secret Wallet address from keplr
+
+![11111n-Shot-2021-05-25-at-6 16 41-PM](https://user-images.githubusercontent.com/75910977/119588376-85525e80-bd85-11eb-878c-75e02c6ba6dd.png)
+
+![Screen Shot 2021-05-25 at 6 15 51 PM](https://user-images.githubusercontent.com/75910977/119588383-897e7c00-bd85-11eb-89bb-f5f4bdf6789f.png)
+
+After a few moments, you will get a success message
+
+![11111n-Shot-2021-05-25-at-6 16 41-PM](https://user-images.githubusercontent.com/75910977/119588396-900cf380-bd85-11eb-8847-d1cda8362d5e.png)
+
+To verify your sXMR arrived, you can go to Keplr and click the top left menu, then Add Token
+
+
+![Screen Shot 2021-05-25 at 6 19 28 PM](https://user-images.githubusercontent.com/75910977/119588507-cea2ae00-bd85-11eb-9cfc-1fbf1ddbeb06.png)
+
+
+Paste this address
+
+secret15m0feupa7nrk3gl8kzep38vecxr7lzuhv6dyfg
+
+![Screen Shot 2021-05-25 at 6 19 28 PM](https://user-images.githubusercontent.com/75910977/119588515-d3fff880-bd85-11eb-8ef1-819613e6ec33.png)
+
+
+Submit and now you should be able to see your sXMR balance
+
 
 
 
